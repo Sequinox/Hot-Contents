@@ -1,8 +1,8 @@
 {
     "NAME":"HotContents",
-    "URL":
+    "URL":"https://raw.githubusercontent.com/Sequinox/Hot-Contents/master/HotContents.version"
     "DOWNLOAD":"https://github.com/Sequinox/Hot-Contents/releases",
-    "GITHUB":"https://raw.githubusercontent.com/Sequinox/Hot-Contents/master/HotContents.version"
+    "GITHUB":
     {
         "USERNAME":"Sequinox",
         "REPOSITORY":"Hot-Contents",
@@ -11,7 +11,7 @@
     "VERSION":
     {
         "MAJOR":0,
-        "MINOR":1,
+        "MINOR":2,
         "PATCH":0,
         "BUILD":0
     },
